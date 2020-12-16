@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**ajbocar/ajbocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, Java, C, Dart, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Vue"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Tailwind"]
+      },
+      backEnd: {
+         php: ["Laravel", "SlimPHP"],
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "mySQL", "PostgreSQL"],
+      mobile: ["Android", "IOS", "Cordova", "Ionic", "React Native"]
+   },
+   currentOccupation: ["Mobile Developer at IBM, open for job opportunities"]
+};
+```
