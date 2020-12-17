@@ -14,6 +14,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
       mobile: ["Android", "IOS", "Cordova", "Ionic", "React Native"]
    },
-   currentOccupation: ["Mobile Developer at IBM, open for job opportunities"]
+   currentOccupation: ["Mobile Developer at IBM, open for job opportunities"],
+   currentlyLearning: ["React", "React Native"]
 };
 ```
