@@ -4,7 +4,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java, C, Dart, Swift],
    technologies: {
       frontEnd: {
-         js: ["React", "Vue"],
+         js: ["React", "Angular", "Vue"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Tailwind"]
       },
       backEnd: {
