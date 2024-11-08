@@ -1,6 +1,5 @@
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Python, Java, C, Dart, Swift],
    technologies: {
       frontEnd: {
@@ -14,7 +13,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
       mobile: ["Android", "IOS", "Cordova", "Ionic", "React Native"]
    },
-   currentOccupation: ["Mobile Developer at IBM, open for job opportunities"],
+   currentOccupation: ["Developer at Lamudi"],
    currentlyLearning: ["React", "React Native"]
 };
 ```
